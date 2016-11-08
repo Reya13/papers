@@ -5,4 +5,5 @@ Paper:
 Increased hypertension in PsA compared to psoriasis patients
 
 Introduction:
-PsA is a chronic autoimmune disease with prevalence of 14%
+PsA is a chronic autoimmune disease with prevalence of 14%.
+Psoriasis is a skin disorder which is connected with PsA.
