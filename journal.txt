@@ -8,3 +8,7 @@ Hopefully  it will be published-best title ever!
 Introduction:
 PsA is a chronic autoimmune disease with prevalence of 14%.
 Psoriasis is a skin disorder which is connected with PsA.
+More introduction needs to be added
+
+Methods:
+Update methods section
