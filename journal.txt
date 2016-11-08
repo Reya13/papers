@@ -1,6 +1,6 @@
 Author:
-Effie Bellou
-John Bowes
+Effie Bellou. ola skata
+John Bowes. teleia na poume
 
 Abstract:
 This thing is freezing a lot
