@@ -1,6 +1,6 @@
 Author:
-Effie Bellou. ola skata
-John Bowes. teleia na poume
+Effie Bellou, Uni of Manchester-skata
+John Bowes, Uni of Cambridge-teleia
 
 Abstract:
 This thing is freezing a lot
