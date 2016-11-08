@@ -12,3 +12,4 @@ Psoriasis is a skin disorder which is connected with PsA.
 
 Methodology:
 Logistic regression was used to compare disease status with possible lifestyle factors.
+Everythinh was adjusted for age,gender, BMI, alcohol and smoking.
