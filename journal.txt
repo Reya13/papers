@@ -9,3 +9,6 @@ PsA compared to psoriasis - best paper ever
 Introduction:
 PsA is a chronic autoimmune disease with prevalence of 14%.
 Psoriasis is a skin disorder which is connected with PsA.
+
+Methodology:
+Logistic regression was used to compare disease status with possible lifestyle factors.
