@@ -12,3 +12,6 @@ Psoriasis is a skin disorder which is connected with PsA.
 
 Methodology:
 Logistic regression was used to compare disease status with possible lifestyle factors.
+
+Results:
+931 patients with PsA and 4,441 patients with psoriasis participanted in the UK Biobank
