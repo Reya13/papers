@@ -1,6 +1,6 @@
 Author:
-Effie Bellou
-John Bowes
+Effie Bellou, Uni of Manchester
+John Bowes, Uni of Cambridge
 
 Abstract:
 This thing is freezing a lot
