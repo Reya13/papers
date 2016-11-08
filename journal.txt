@@ -15,3 +15,6 @@ Logistic regression was used to compare disease status with possible lifestyle f
 
 Conclusio
 too guick
+
+Acknowledgements:
+Thank you the ARUK and CfMR along with the psoriasis association
